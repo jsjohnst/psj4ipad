@@ -1,5 +1,15 @@
-I branched this so I could share it and make updates.
-Original code here..
-http://code.google.com/p/pjs4ipad/
+pjs4iPad lets you create Processing.js apps that can be added to the
+iPad's home screen. Each app includes a simple code editor so you can edit
+the code. Offline support is included through the user of the offline
+application cache and local storage.
 
+Try the live demo by visiting this link on your iPad:
+
+http://www.jepstone.net/HiperPad/
+
+If you click Save & Run, and then hit the + button, you can add the
+program to the home screen. Before you can go offline, you need to run it
+from the home screen and use it (tap Edit, then tap Save & Run). That
+makes sure all the files are pulled down into the offline app cache. Once
+you've done that, you can go offline and edit your code and save it. 
 
